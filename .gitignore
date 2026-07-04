@@ -1,0 +1,10 @@
+# Metadata-only repository for single-layout channel publishing
+*
+!.gitignore
+!README.md
+!packages/
+!packages/**
+!kz-packages-edge.json
+!kz-packages-alpha.json
+!kz-packages-beta.json
+!kz-packages-stable.json
