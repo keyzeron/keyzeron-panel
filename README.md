@@ -9,7 +9,7 @@ Container images for Keyzeron Panel runtimes and services.
 ## Easly Access
 
 - Visit: https://panel.keyzeron.com
-- Beta release is planned for: 08.08.2026 08:08:08
+- Beta release is planned for: 08.08.2026 08:08:08 (UTC)
 - Until this date, visit the site to get discounted access.
 
 ## Family / Group / Versions
