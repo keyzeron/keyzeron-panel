@@ -6,6 +6,12 @@ Container images for Keyzeron Panel runtimes and services.
 - Channel: edge (active)
 - Note: beta/stable tables will be added as those channels are published.
 
+## Easly Access
+
+- Visit: https://panel.keyzeron.com
+- Beta release is planned for: 08.08.2026 08:08:08
+- Until this date, visit the site to get discounted access.
+
 ## Family / Group / Versions
 
 | Family | Group | Versions |
