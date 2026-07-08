@@ -8,3 +8,6 @@
 !kz-packages-alpha.json
 !kz-packages-beta.json
 !kz-packages-stable.json
+!internal/
+!internal/engine/
+!internal/engine/release_catalog.json
